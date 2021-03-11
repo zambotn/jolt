@@ -12,15 +12,15 @@
 
     <groupId>com.bazaarvoice.jolt</groupId>
     <artifactId>jolt-parent</artifactId>
-    <version>0.1.2-SNAPSHOT</version>
+    <version>0.1.2-SNAPSHOT-unitn</version>
     <packaging>pom</packaging>
 
     <name>Jolt Parent</name>
 
     <scm>
-        <url>https://github.com/bazaarvoice/jolt</url>
-        <connection>scm:git:git@github.com:bazaarvoice/jolt.git</connection>
-        <developerConnection>scm:git:git@github.com:bazaarvoice/jolt.git</developerConnection>
+        <url>https://github.com/zambotn/jolt</url>
+        <connection>scm:git:git@github.com:zambotn/jolt.git</connection>
+        <developerConnection>scm:git:git@github.com:zambotn/jolt.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
